@@ -1,4 +1,4 @@
-# Web Comnponent workshop
+# Web Component workshop
 Hi, this is a very simple and easy photo-album/gallery demo made with [Lit](https://lit.dev/docs/).
 
 ## How to get started?
