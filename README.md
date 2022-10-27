@@ -13,3 +13,9 @@ This repo contain file named photo-album.ts, it's gone be our starting file in t
 - It would be nice to highlight selected thumbnail
 - Some transation animations would look nice
 - Styling the gallery to your liking
+
+If ^those were too easy, try to create own components:
+
+- Commenting is always nice, add comment component to each image
+- And if commenting isn't your thing, how about liking/upvoting images?
+- Sometimes there is need for image deletion/adding, can you do it?
